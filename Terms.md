@@ -6,7 +6,7 @@
 
 Welcome to this decentralized application ("dApp", "App", "Service") built on the Solana blockchain.
 
-By accessing or using the Tans 2026 App, you agree to be bound by these Terms of Use. If you do not agree, you must not use the App.
+By accessing or using the Tanks 2026 App, you agree to be bound by these Terms of Use. If you do not agree, you must not use the App.
 
 ---
 
