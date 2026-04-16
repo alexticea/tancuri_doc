@@ -25,4 +25,4 @@ Please note that all token transfers and SKR distributions occur on the Solana b
 We use infrastructure like Solana Mainnet and MongoDB/Node.js servers to power the game. We do not sell your data to third parties.
 
 ## Contact
-If you have questions about this policy, please open an issue in the official project repository.
+If you have questions about this policy, please open an issue in the official project repository or email alexandru.ticea@izo.ro
